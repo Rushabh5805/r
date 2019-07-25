@@ -3,8 +3,7 @@ logo: "/images/IMG-6277.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  Second description 
-  <br><br>
+
   <a href="https://www.linkedin.com/in/rushabh-shah-0a8161156/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
